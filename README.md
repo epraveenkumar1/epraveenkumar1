@@ -36,11 +36,6 @@ I’m an aspiring DevOps engineer with a strong interest in automation, deployme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50" style="margin-right:10px"/>
 </p>
 
-### **Servers**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/>
-</p>
-
 ### **Databases & Monitoring**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right:10px"/>
@@ -48,6 +43,13 @@ I’m an aspiring DevOps engineer with a strong interest in automation, deployme
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="50" height="50" style="margin-right:10px"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50" style="margin-right:10px"/>
 </p>
+
+### **Servers**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/>
+</p>
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=epraveenkumar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
