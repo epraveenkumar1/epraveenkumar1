@@ -32,7 +32,6 @@ I’m an aspiring DevOps engineer with a strong interest in automation, deployme
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50" style="margin-right:10px"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50" style="margin-right:10px"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50" style="margin-right:10px"/>
-  <img src="https://avatars.githubusercontent.com/u/58658190?s=200&v=4" alt="argocd" width="50" height="50" style="margin-right:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin-right:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50" style="margin-right:10px"/>
 </p>
