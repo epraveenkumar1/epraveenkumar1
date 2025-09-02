@@ -51,9 +51,6 @@ I’m an aspiring DevOps engineer with a strong interest in automation, deployme
 </p>
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=epraveenkumar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=epraveenkumar1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
